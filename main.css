@@ -358,6 +358,10 @@ footer {
 
 @media screen and (max-width: 940px) {
 
+  .logo {
+    font-size: 7em;
+  }
+
   .second-slide {
     padding-top: 30px;
   }
@@ -407,9 +411,19 @@ footer {
   }
 }
 
+@media screen and (max-width: 460px) {
+  .logo {
+    font-size: 5em;
+  }
+}
+
 @media screen and (max-width: 350px) {
   .image-in-nav{
     padding: 2px 5px;
     margin: 0 0;
+  }
+
+  .logo {
+    font-size: 4em;
   }
 }
