@@ -49,7 +49,6 @@ body {
 .navigation li {
   padding: 0px 20px;
   color: #39464E;
-  /*transition: border-bottom 0.3s ease-in-out;*/
 }
 
 .navigation li:hover {
