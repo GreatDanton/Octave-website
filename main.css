@@ -298,7 +298,8 @@ button::-moz-focus-inner {
   display: flex;
   width: 20%;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
+  padding-top: 20px;
 }
 
 .col-80 {
@@ -427,6 +428,10 @@ footer {
 
   .col-80 {
     padding: 0 10px;
+  }
+
+  .col-20 {
+    padding-top: 0;
   }
 
   .container {
