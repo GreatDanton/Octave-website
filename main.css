@@ -157,6 +157,12 @@ body {
   width: 100%;
 }
 
+.slide a {
+  line-height: 42px;
+  color: #2c82dd;
+  font-weight: bold;
+}
+
 .slide2 {
   padding: 60px 0 100px;
 }
